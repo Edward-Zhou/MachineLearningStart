@@ -1,0 +1,14 @@
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.deps.json
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.json
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.dev.json
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.dll
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csprojAssemblyReference.cache
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\Data\Base.tsv
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\Data\test.tsv
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.dll
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+D:\Edward\SourceCode\MachineLearningStart\SentimentAnalysis\bin\Debug\netcoreapp2.1\Data\Base - Copy.tsv

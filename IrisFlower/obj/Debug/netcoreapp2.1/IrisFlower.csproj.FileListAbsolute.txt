@@ -1,0 +1,24 @@
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.deps.json
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.runtimeconfig.json
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.runtimeconfig.dev.json
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.dll
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.csprojAssemblyReference.cache
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.csproj.CoreCompileInputs.cache
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.AssemblyInfoInputs.cache
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.AssemblyInfo.cs
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\iris-data.txt
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.pdb
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.dll
+D:\Edward\Source Code\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.pdb
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\iris-data.txt
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.deps.json
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.runtimeconfig.json
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.runtimeconfig.dev.json
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.dll
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\bin\Debug\netcoreapp2.1\IrisFlower.pdb
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.csprojAssemblyReference.cache
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.csproj.CoreCompileInputs.cache
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.AssemblyInfoInputs.cache
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.AssemblyInfo.cs
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.dll
+D:\Edward\SourceCode\MachineLearningStart\IrisFlower\obj\Debug\netcoreapp2.1\IrisFlower.pdb
